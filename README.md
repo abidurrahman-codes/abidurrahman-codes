@@ -1,16 +1,17 @@
-## Hi there 👋
-# Hi, I'm Md Abidur Rahman 👋
+## Hi, I'm Md Abidur Rahman 👋
 
 💻 CSE Engineer | Web Developer  
 🚀 Exploring AI & Blockchain (Web3)
 
 ## 🔧 Skills
 - HTML, CSS, JavaScript
-- Basic Python
+- C, C++, C# and Java 
+- Basic Solidity
 - Git & GitHub
+- Wordpress
 
 ## 🌱 Currently Learning
-- Advanced JavaScript
+- MERN stack
 - AI Tools
 - Blockchain Development (Solidity, Web3)
 
