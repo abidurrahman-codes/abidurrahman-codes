@@ -1,5 +1,21 @@
 ## Hi there 👋
+# Hi, I'm Md Abidur Rahman 👋
 
+💻 CSE Engineer | Web Developer  
+🚀 Exploring AI & Blockchain (Web3)
+
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- Basic Python
+- Git & GitHub
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- AI Tools
+- Blockchain Development (Solidity, Web3)
+
+## 📫 Contact
+- Email: abidurrahman.codes@gmail.com
 <!--
 **abidurrahman-codes/abidurrahman-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
